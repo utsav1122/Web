@@ -1,0 +1,32 @@
+h1 {
+    color: aqua;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    flex: auto ;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+}
+
+section {
+     color: rgb(2, 12, 12);
+     background-color: aquamarine;
+     height: fit-content;
+     width: fit-content;
+     padding: auto;
+     
+}
+
+table {
+    color: rgb(0, 0, 0);
+}
+
+div {
+    background-color: rgb(177, 177, 223);
+    width: fit-content;
+    height: fit-content;
+}
+
